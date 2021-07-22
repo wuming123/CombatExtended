@@ -22,6 +22,7 @@
 						<AimingAccuracy>1</AimingAccuracy>
 						<MeleeCritChance>1</MeleeCritChance>
 						<MeleeParryChance>1</MeleeParryChance>
+						<NightVisionEfficiency>0.75</NightVisionEfficiency>
 						<ReloadSpeed>1</ReloadSpeed>
 						<Suppressability>1</Suppressability>
 					</value>
