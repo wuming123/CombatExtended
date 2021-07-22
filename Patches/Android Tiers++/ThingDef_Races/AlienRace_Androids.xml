@@ -183,7 +183,9 @@
 				<li Class="PatchOperationAdd">
 				  <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="ATPP_Android2TX" or defName="ATPP_Android2ITX"]/statBases</xpath>
 				  <value>
-				    <MeleeDodgeChance>0.95</MeleeDodgeChance>
+					<NightVisionEfficiency>0.2</NightVisionEfficiency>
+					<AimingAccuracy>0.8</AimingAccuracy>
+				    	<MeleeDodgeChance>0.9</MeleeDodgeChance>
 					<MeleeCritChance>0.95</MeleeCritChance>
 					<MeleeParryChance>0.95</MeleeParryChance>
 					<Suppressability>0.10</Suppressability>
@@ -250,7 +252,8 @@
 				<li Class="PatchOperationAdd">
 				  <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="ATPP_Android3TX" or defName="ATPP_Android3ITX"]/statBases</xpath>
 				  <value>
-				    <MeleeDodgeChance>1</MeleeDodgeChance>
+					<NightVisionEfficiency>0.4</NightVisionEfficiency>
+				    	<MeleeDodgeChance>1</MeleeDodgeChance>
 					<MeleeCritChance>1.1</MeleeCritChance>
 					<MeleeParryChance>1.1</MeleeParryChance>
 					<Suppressability>0.10</Suppressability>
@@ -317,7 +320,8 @@
 				<li Class="PatchOperationAdd">
 				  <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="ATPP_Android4TX" or defName="ATPP_Android4ITX"]/statBases</xpath>
 				  <value>
-				    <MeleeDodgeChance>1.2</MeleeDodgeChance>
+					<NightVisionEfficiency>0.6</NightVisionEfficiency>
+				    	<MeleeDodgeChance>1.2</MeleeDodgeChance>
 					<MeleeCritChance>1.2</MeleeCritChance>
 					<MeleeParryChance>1.2</MeleeParryChance>
 					<Suppressability>0.25</Suppressability>
@@ -384,7 +388,8 @@
 				<li Class="PatchOperationAdd">
 				  <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="ATPP_Android2KTX" or defName="ATPP_Android2KITX"]/statBases</xpath>
 				  <value>
-				    <MeleeDodgeChance>0.75</MeleeDodgeChance>
+					<NightVisionEfficiency>0.4</NightVisionEfficiency>
+				    	<MeleeDodgeChance>0.75</MeleeDodgeChance>
 					<MeleeCritChance>1.0</MeleeCritChance>
 					<MeleeParryChance>1.2</MeleeParryChance>
 					<Suppressability>0</Suppressability>
