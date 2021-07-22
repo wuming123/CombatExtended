@@ -429,7 +429,7 @@
 				    <MeleeDodgeChance>1.25</MeleeDodgeChance>
 					<MeleeCritChance>1.25</MeleeCritChance>
 					<MeleeParryChance>1.25</MeleeParryChance>
-					<NightVisionEfficiency>0.66</NightVisionEfficiency>
+					<NightVisionEfficiency>0.75</NightVisionEfficiency>
 					<SmokeSensitivity>0</SmokeSensitivity>
 				  </value>
 				</li>
