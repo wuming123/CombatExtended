@@ -27,6 +27,7 @@
 						<MeleeCritChance>2</MeleeCritChance>
 						<MeleeParryChance>0.64</MeleeParryChance>
 						<SightsEfficiency>1</SightsEfficiency>
+						<NightVisionEfficiency>0.75</NightVisionEfficiency>
 						<AimingAccuracy>1</AimingAccuracy>
 						<ShootingAccuracyPawn>1</ShootingAccuracyPawn>
 					</value>
@@ -49,6 +50,7 @@
 						<MeleeDodgeChance>0.57</MeleeDodgeChance>
 						<MeleeCritChance>1.1</MeleeCritChance>
 						<MeleeParryChance>0.36</MeleeParryChance>
+						<NightVisionEfficiency>0.75</NightVisionEfficiency>
 						<SightsEfficiency>1</SightsEfficiency>
 						<AimingAccuracy>1</AimingAccuracy>
 						<ShootingAccuracyPawn>1</ShootingAccuracyPawn>
@@ -60,6 +62,7 @@
 						<MeleeDodgeChance>0.66</MeleeDodgeChance>
 						<MeleeCritChance>1.56</MeleeCritChance>
 						<MeleeParryChance>0.64</MeleeParryChance>
+						<NightVisionEfficiency>0.75</NightVisionEfficiency>
 						<SightsEfficiency>1</SightsEfficiency>
 						<AimingAccuracy>1</AimingAccuracy>
 						<ShootingAccuracyPawn>1</ShootingAccuracyPawn>
