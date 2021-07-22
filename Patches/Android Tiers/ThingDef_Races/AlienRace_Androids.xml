@@ -227,6 +227,7 @@
 					<MeleeCritChance>0.95</MeleeCritChance>
 					<MeleeParryChance>0.95</MeleeParryChance>
 					<Suppressability>0.10</Suppressability>
+					 <NightVisionEfficiency>0.2</NightVisionEfficiency>
 					<SmokeSensitivity>0.05</SmokeSensitivity>
 				  </value>
 				</li>
@@ -294,6 +295,7 @@
 					<MeleeCritChance>1.1</MeleeCritChance>
 					<MeleeParryChance>1.1</MeleeParryChance>
 					<Suppressability>0.10</Suppressability>
+					<NightVisionEfficiency>0.4</NightVisionEfficiency>
 					<SmokeSensitivity>0</SmokeSensitivity>
 				  </value>
 				</li>
@@ -361,6 +363,7 @@
 					<MeleeCritChance>1.2</MeleeCritChance>
 					<MeleeParryChance>1.2</MeleeParryChance>
 					<Suppressability>0.25</Suppressability>
+					<NightVisionEfficiency>0.6</NightVisionEfficiency>
 					<SmokeSensitivity>0</SmokeSensitivity>
 				  </value>
 				</li>
@@ -426,6 +429,7 @@
 				    <MeleeDodgeChance>1.25</MeleeDodgeChance>
 					<MeleeCritChance>1.25</MeleeCritChance>
 					<MeleeParryChance>1.25</MeleeParryChance>
+					<NightVisionEfficiency>0.66</NightVisionEfficiency>
 					<SmokeSensitivity>0</SmokeSensitivity>
 				  </value>
 				</li>
@@ -490,6 +494,7 @@
 				    <MeleeDodgeChance>1.25</MeleeDodgeChance>
 					<MeleeCritChance>1.25</MeleeCritChance>
 					<MeleeParryChance>1.25</MeleeParryChance>
+					<NightVisionEfficiency>0.5</NightVisionEfficiency>
 					<SmokeSensitivity>0</SmokeSensitivity>
 					<CarryBulk>40</CarryBulk>
 				  </value>
