@@ -157,9 +157,10 @@
 				<li Class="PatchOperationAdd">
 				  <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Android1Tier"]/statBases</xpath>
 				  <value>
-				    <MeleeDodgeChance>0.85</MeleeDodgeChance>
-					<MeleeCritChance>0.85</MeleeCritChance>
-					<MeleeParryChance>0.85</MeleeParryChance>
+					<AimingAccuracy>0.6</AimingAccuracy>
+				        <MeleeDodgeChance>0.8</MeleeDodgeChance>
+					<MeleeCritChance>0.8</MeleeCritChance>
+					<MeleeParryChance>0.8</MeleeParryChance>
 					<SmokeSensitivity>0.1</SmokeSensitivity>
 				  </value>
 				</li>
@@ -223,9 +224,10 @@
 				<li Class="PatchOperationAdd">
 				  <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Android2Tier"]/statBases</xpath>
 				  <value>
-				    <MeleeDodgeChance>0.95</MeleeDodgeChance>
+					<AimingAccuracy>0.8</AimingAccuracy>
+				    	<MeleeDodgeChance>0.9</MeleeDodgeChance>
 					<MeleeCritChance>0.95</MeleeCritChance>
-					<MeleeParryChance>0.95</MeleeParryChance>
+					<MeleeParryChance>0.9</MeleeParryChance>
 					<Suppressability>0.10</Suppressability>
 					 <NightVisionEfficiency>0.2</NightVisionEfficiency>
 					<SmokeSensitivity>0.05</SmokeSensitivity>
